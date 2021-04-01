@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.plist
+1 - Aula (Olá Mundo)/main.dSYM/Contents/Resources/DWARF/main
+.vscode/tasks.json
+.vscode/launch.json
