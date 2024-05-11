@@ -6,11 +6,11 @@ int main() {
     int number = 4;
 
     if(number == 1) {
-        cout << "O numero é igual a 1" << endl;
+        cout << "The number is equal to 1" << endl;
     } else if(number > 2 && number < 5) {
-        cout << "O numero é maior que 1 e menor que 5" << endl;
+        cout << "The number is greater than 1 and less than 5" << endl;
     } else {
-        cout << "O numero é " << number << endl;
+        cout << "The number is " << number << endl;
     }
 
     return 0;
