@@ -9,7 +9,7 @@ int main() {
 
     sum();
     
-    cout << sum(30, 40) << endl;
+    cout << sum(10, 20) << endl;
 
     return 0;
 }

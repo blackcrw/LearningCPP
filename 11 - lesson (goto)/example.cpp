@@ -32,7 +32,7 @@ int main() {
         goto initial;
     } else if (option == 3) {
         if (wallet == 0) cout << "Your wallet is empty." << endl;
-        else cout << "Your wallet has " << wallet << " reais." << endl;
+        else cout << "Your wallet has " << wallet << " xmr." << endl;
 
         cout << endl;
 

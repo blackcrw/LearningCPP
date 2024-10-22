@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//prototype function
 void banner();
 void sum(int num_one, int num_two);
 int sub(int num_one, int num_two);

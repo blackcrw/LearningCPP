@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void welcome(string name = "Guest");
+void welcome(string name="Guest");
 
 int main() {
     welcome("John");
